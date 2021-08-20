@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @vl4sov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vl4sov/vl4sov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I am interested in developing LUA
+- 🌱 I am currently studying LUA\Python\Web language
+- 💞 ️ I want to cooperate with large projects
+- 📫 You can find out how to contact me in the profile
