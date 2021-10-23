@@ -1,4 +1,4 @@
-![vl4sov](https://raw.githubusercontent.com/vl4sov/vl4sov/main/vl4sov.jpg)
+![vl4sov](https://raw.githubusercontent.com/vl4sov/vl4sov/main/vl4sov_black.jpg)
 - 👋 Hi, I’m @vl4sov
 - 👀 I am interested in developing LUA
 - 🌱 I am currently studying LUA\Python\Web language
